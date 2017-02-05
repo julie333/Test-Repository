@@ -1,0 +1,3 @@
+Refactor the Customer class so that it has a list of accounts instead of a single account.
+Update the BankService to support this new feature and unit test it.
+Update the BankApp to support this new feature and unit test it.
