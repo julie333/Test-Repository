@@ -206,7 +206,7 @@ function is_power_of_two(num) {
         while (i < (num / 2)) {
 
             if (Math.pow(2, i) === num)
-                return " Is a power of 2";
+                return " Is a Power of 2";
 
             i++;
         }
