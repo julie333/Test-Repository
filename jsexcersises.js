@@ -8,16 +8,15 @@ var s1 = "ReverseThisString";
 console.log("Reversed String is " + reverse(s1));
 
 function reverse(string) {
-
     return string.split("").reverse().join("");
 }
 
 
 
-console.log("\n2. Factorial\n");
+console.log("\n2. Factorial\n") ;
 
-var num1 = 10;
-console.log("Factorial of 10 is " + factorial(num1));
+var num10 = 10;
+console.log("Factorial of 10 is " + factorial(num10));
 
 function factorial(n) {
 
